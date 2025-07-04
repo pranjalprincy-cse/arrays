@@ -28,9 +28,9 @@ Level 1-
 
 Level 2-
 
-🔸Remove duplicate elements from array
+🔸Remove duplicate elements from array✅
 
-🔸Insert an element at a given index
+🔸Insert an element at a given index✅
 
 🔸Delete an element from a given index
 
