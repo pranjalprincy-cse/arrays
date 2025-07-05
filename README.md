@@ -32,9 +32,9 @@ Level 2-
 
 🔸Insert an element at a given index✅
 
-🔸Delete an element from a given index
+🔸Delete an element from a given index✅
 
-🔸Merge two arrays
+🔸Merge two arrays✅
 
 🔸Left rotate array by one position
 
