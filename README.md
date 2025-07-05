@@ -36,9 +36,9 @@ Level 2-
 
 🔸Merge two arrays✅
 
-🔸Left rotate array by one position
+🔸Left rotate array by one position✅
 
-🔸Right rotate array by one position
+🔸Right rotate array by one position✅
 
 🔸Rotate array by k positions (left/right)
 
